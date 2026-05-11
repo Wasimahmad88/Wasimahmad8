@@ -2,19 +2,19 @@
 # 🛡️ Wasim Ahmad | MSc Artificial Intelligence Graduate
 
 ### 👨‍💼 Professional Profile
-[cite_start]Highly vigilant and dependable Security Officer with an **MSc in AI**[cite: 6, 10]. [cite_start]I combine active **SIA licensing** with advanced analytical and data-literacy skills[cite: 10, 11].
+Highly vigilant and dependable Security Officer with an **MSc in AI**[cite: 6, 10]. [cite_start]I combine active **SIA licensing** with advanced analytical and data-literacy skills[cite: 10, 11].
 
 ---
 
 ### 🎓 Academic & Research
 * 🏛️ **MSc in Artificial Intelligence** (Distinction) | [cite_start]University of Greater Manchester [cite: 47, 49]
-* [cite_start]🔬 **Research Focus:** Deep Learning, IoT, NLP/LLMs, and Medical AI 
+* 🔬 **Research Focus:** Deep Learning, IoT, NLP/LLMs, and Medical AI 
 * [cite_start]📚 **Publications:** 7 peer-reviewed publications and 3 book chapters [cite: 51]
 
 ### 🛠️ Professional Certifications
-* [cite_start]🛡️ **SIA Door Supervisor Licence** (Active) 
-* [cite_start]📹 **CCTV Operator Certificate** 
-* [cite_start]🔥 **Fire Marshal Certificate** 
+* 🛡️ **SIA Door Supervisor Licence** (Active) 
+* 📹 **CCTV Operator Certificate** 
+* 🔥 **Fire Marshal Certificate** 
 
 ### 💻 Technical Skills
 * [cite_start]🤖 **AI & Data:** Deep Learning, Data Analysis, and Problem-Solving [cite: 45]
